@@ -20,12 +20,6 @@ class App extends Component {
   }
 }
 
-function Hello() {
-  let phrase = "World!"
-  return (
-      <h1> Hello {phrase} </h1>
-    )
-}
 
 function SayFulName(props) {
   return (
